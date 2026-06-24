@@ -1,0 +1,23 @@
+__pycache__/
+
+*.pyc
+
+.venv/
+
+.env
+
+.DS_Store
+
+# data files (IMPORTANT)
+
+*.csv
+
+*.tsv
+
+*.parquet
+
+# outputs
+
+*.html
+
+EOF
